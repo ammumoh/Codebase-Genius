@@ -10,3 +10,4 @@ venv/
 backend/temp_repos/
 __pycache__/
 *.pyc
+.env
