@@ -16,3 +16,38 @@ Codebase Genius is an intelligent agent that maps, analyzes, and documents code 
 
 ## 🏗️ Project Structure
 
+Codebase-Genius/
+│
+├── backend/ # Python backend logic
+├── frontend/ # React-based frontend UI
+├── .gitignore # Ignored files (including .env)
+├── requirements.txt # Python dependencies
+└── README.md # Project overview
+
+
+---
+
+## ⚙️ Setup Instructions
+
+### Backend (Python)
+```bash
+cd backend
+python3 -m venv venv
+source venv/bin/activate   # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+
+Frontend (React)
+cd frontend
+npm install
+npm run dev
+
+🧑‍💻 Author
+
+Elijah Mumo Muthui
+IT Guru | Robotics & AI Enthusiast
+📍 , Kenya
+
+
+🧾 License
+
+This project is for educational and demonstration purposes only.
