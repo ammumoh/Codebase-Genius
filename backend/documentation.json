@@ -1,0 +1,186 @@
+{
+  "repo_name": "Generative-AI",
+  "overview": "README found (1609 chars). Preview: \ufeff# Assignment 2: Codebase Genius\n\n## Overview\n\nCodebase Genius is an AI-powered, multi-agent system that automatically generates high-quality documentation for any software repository. This system ana...",
+  "files": [
+    {
+      "name": "week1-fundamentals",
+      "path": "week1-fundamentals",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "Assignment2",
+      "path": "Assignment2",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "Generative-AI",
+      "path": "Generative-AI",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "RewelGPT-Project",
+      "path": "RewelGPT-Project",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "type": "file",
+      "size": 1614
+    },
+    {
+      "name": "streamlit_app.py",
+      "path": "streamlit_app.py",
+      "type": "file",
+      "size": 6284
+    },
+    {
+      "name": "requirements.txt",
+      "path": "requirements.txt",
+      "type": "file",
+      "size": 76
+    },
+    {
+      "name": "README.md",
+      "path": "week1-fundamentals/README.md",
+      "type": "file",
+      "size": 368
+    },
+    {
+      "name": "BE",
+      "path": "Assignment2/BE",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "FE",
+      "path": "Assignment2/FE",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "README.md",
+      "path": "Assignment2/README.md",
+      "type": "file",
+      "size": 854
+    },
+    {
+      "name": "agents",
+      "path": "Assignment2/BE/agents",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "python_doc_genie.py",
+      "path": "Assignment2/BE/python_doc_genie.py",
+      "type": "file",
+      "size": 3233
+    },
+    {
+      "name": "main.py",
+      "path": "Assignment2/BE/main.py",
+      "type": "file",
+      "size": 1915
+    },
+    {
+      "name": "api_server.py",
+      "path": "Assignment2/BE/api_server.py",
+      "type": "file",
+      "size": 599
+    },
+    {
+      "name": "run_jac.bat",
+      "path": "Assignment2/BE/run_jac.bat",
+      "type": "file",
+      "size": 0
+    },
+    {
+      "name": "python_code_analyzer.py",
+      "path": "Assignment2/BE/python_code_analyzer.py",
+      "type": "file",
+      "size": 2522
+    },
+    {
+      "name": "python_repo_mapper.py",
+      "path": "Assignment2/BE/python_repo_mapper.py",
+      "type": "file",
+      "size": 5549
+    },
+    {
+      "name": "main.jac",
+      "path": "Assignment2/BE/main.jac",
+      "type": "file",
+      "size": 1826
+    },
+    {
+      "name": "get-pip.py",
+      "path": "Assignment2/BE/get-pip.py",
+      "type": "file",
+      "size": 2182415
+    },
+    {
+      "name": "test_multiple_repos.py",
+      "path": "Assignment2/BE/test_multiple_repos.py",
+      "type": "file",
+      "size": 4966
+    },
+    {
+      "name": "requirements.txt",
+      "path": "Assignment2/BE/requirements.txt",
+      "type": "file",
+      "size": 190
+    },
+    {
+      "name": ".env",
+      "path": "Assignment2/BE/.env",
+      "type": "file",
+      "size": 168
+    },
+    {
+      "name": "doc_genie.jac",
+      "path": "Assignment2/BE/agents/doc_genie.jac",
+      "type": "file",
+      "size": 359
+    },
+    {
+      "name": "code_analyzer.jac",
+      "path": "Assignment2/BE/agents/code_analyzer.jac",
+      "type": "file",
+      "size": 510
+    },
+    {
+      "name": "repo_mapper.jac",
+      "path": "Assignment2/BE/agents/repo_mapper.jac",
+      "type": "file",
+      "size": 926
+    },
+    {
+      "name": "app.py",
+      "path": "Assignment2/FE/app.py",
+      "type": "file",
+      "size": 2638
+    },
+    {
+      "name": "requirements.txt",
+      "path": "Assignment2/FE/requirements.txt",
+      "type": "file",
+      "size": 38
+    },
+    {
+      "name": "RewelGPT-Project",
+      "path": "RewelGPT-Project/RewelGPT-Project",
+      "type": "dir",
+      "size": null
+    },
+    {
+      "name": "Generative-AI",
+      "path": "RewelGPT-Project/RewelGPT-Project/Generative-AI",
+      "type": "dir",
+      "size": null
+    }
+  ]
+}
